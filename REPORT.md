@@ -1,7 +1,7 @@
-Name: <Your name here>
+Name: Mark Hultin
 
-Unresolved Issues: Place your unresolved issues here. Include things you tried to resolve them. 
+Unresolved Issues: No unresolved issues
 
-Notes: The more concise and detailed the notes, the better the grade.  
+Notes: Due to Visual Studio 2017 SDK version issues, the solution had to be retargeted to the current SDK (from 10.0.16299.0, to 10.0.17134.0). Thank you, Professor Besser for the retargeting tutuorial.
 
 ###
